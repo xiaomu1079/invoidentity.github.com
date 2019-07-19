@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Identification</string>
+    <string name="title_name">INvo</string>
+    <string name="tab_text_1">植物识别</string>
+    <string name="tab_text_2">动物识别</string>
+    <string name="tab_text_3">菜品识别</string>
+    <string name="tab_text_4">车辆识别</string>
+
+</resources>
